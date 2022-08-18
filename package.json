@@ -7,7 +7,7 @@
     "socket.io"
   ],
   "main": "dist/index.min.js",
-  "repository": "https://github.com/joaopjt/corky.git",
+  "repository": "https://github.com/joaopjt/react-corky-middleware.git",
   "author": "João Pedro <joaopjt@gmail.com>",
   "license": "Apache-2.0",
   "scripts": {
