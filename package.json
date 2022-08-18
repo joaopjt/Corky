@@ -1,5 +1,5 @@
 {
-  "name": "Corky",
+  "name": "react-corky-middleware",
   "version": "1.0.0",
   "description": "A redux middleware to post commits over a web socket.",
   "keywords": [
